@@ -42,7 +42,6 @@ public class Main {
 
             if (yn2.equals("y")) {
                 calc.removeResult();
-
                 System.out.println("삭제 되었습니다.");
             }
 
